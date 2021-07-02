@@ -1,0 +1,9 @@
+[package]
+name = "pete-debug"
+version = "0.0.1"
+edition = "2018"
+license = "ISC"
+authors = ["Joe Ranweiler <joe@lemma.co>"]
+
+[dependencies]
+pete = "0.6.0"
